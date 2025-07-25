@@ -11,6 +11,8 @@ public:
         }
 
         start = sum/h;
+        if(!start)
+        start =1;
 
         while(start<=end){
             mid = start+(end-start)/2;
