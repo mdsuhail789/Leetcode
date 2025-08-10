@@ -16,7 +16,7 @@ public:
                 int p = j + 1, q = n - 1;
                 while (p < q) {
                     // avoid overflow
-                    long long sum = (long long)nums[i] + nums[j] + nums[p] + nums[q];
+                    long long sum =(long long)nums[i] +(long long) nums[j] +(long long) nums[p] + (long long)nums[q];
 
                     if (sum < target) {
                         p++;
