@@ -10,11 +10,13 @@ public:
             if (i > 0 && nums[i] == nums[i - 1]) continue; 
 
             for (int j = i + 1; j < n; j++) {
+                // skip duplicate j
                 if (j > i + 1 && nums[j] == nums[j - 1]) continue; 
 
                 int p = j + 1, q = n - 1;
                 while (p < q) {
-                    long long sum = (long long)nums[i] + nums[j] + nums[p] + nums[q]; // avoid overflow
+                    // avoid overflow
+                    long long sum = (long long)nums[i] + nums[j] + nums[p] + nums[q];
 
                     if (sum < target) {
                         p++;
@@ -26,9 +28,10 @@ public:
                         ans.push_back({nums[i], nums[j], nums[p], nums[q]});
                         p++;
                         q--;
-
-                        while (p < q && nums[p] == nums[p - 1]) p++; // skip duplicate p
-                        while (p < q && nums[q] == nums[q + 1]) q--; // skip duplicate q
+                        // skip duplicate p
+                        while (p < q && nums[p] == nums[p - 1]) p++; 
+                         // skip duplicate q
+                        while (p < q && nums[q] == nums[q + 1]) q--;
                     }
                 }
             }
