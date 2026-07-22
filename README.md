@@ -10,6 +10,7 @@
 | [0326-power-of-three](https://github.com/mdsuhail789/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mdsuhail789/Leetcode/tree/master/0342-power-of-four) |
 | [0728-self-dividing-numbers](https://github.com/mdsuhail789/Leetcode/tree/master/0728-self-dividing-numbers) |
+| [1323-maximum-69-number](https://github.com/mdsuhail789/Leetcode/tree/master/1323-maximum-69-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -25,4 +26,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/mdsuhail789/Leetcode/tree/master/0069-sqrtx) |
+## Greedy
+|  |
+| ------- |
+| [1323-maximum-69-number](https://github.com/mdsuhail789/Leetcode/tree/master/1323-maximum-69-number) |
 <!---LeetCode Topics End-->
