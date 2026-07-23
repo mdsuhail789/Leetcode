@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/mdsuhail789/Leetcode/tree/master/0069-sqrtx) |
+| [0168-excel-sheet-column-title](https://github.com/mdsuhail789/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/mdsuhail789/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/mdsuhail789/Leetcode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/mdsuhail789/Leetcode/tree/master/0326-power-of-three) |
@@ -30,4 +31,8 @@
 |  |
 | ------- |
 | [1323-maximum-69-number](https://github.com/mdsuhail789/Leetcode/tree/master/1323-maximum-69-number) |
+## String
+|  |
+| ------- |
+| [0168-excel-sheet-column-title](https://github.com/mdsuhail789/Leetcode/tree/master/0168-excel-sheet-column-title) |
 <!---LeetCode Topics End-->
