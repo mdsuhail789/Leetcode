@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/mdsuhail789/Leetcode/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/mdsuhail789/Leetcode/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/mdsuhail789/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/mdsuhail789/Leetcode/tree/master/0231-power-of-two) |
