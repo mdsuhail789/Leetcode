@@ -13,6 +13,7 @@
 | [0342-power-of-four](https://github.com/mdsuhail789/Leetcode/tree/master/0342-power-of-four) |
 | [0728-self-dividing-numbers](https://github.com/mdsuhail789/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1323-maximum-69-number](https://github.com/mdsuhail789/Leetcode/tree/master/1323-maximum-69-number) |
+| [2469-convert-the-temperature](https://github.com/mdsuhail789/Leetcode/tree/master/2469-convert-the-temperature) |
 ## Bit Manipulation
 |  |
 | ------- |
