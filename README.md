@@ -8,6 +8,7 @@
 | [0069-sqrtx](https://github.com/mdsuhail789/Leetcode/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/mdsuhail789/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/mdsuhail789/Leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/mdsuhail789/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/mdsuhail789/Leetcode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/mdsuhail789/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mdsuhail789/Leetcode/tree/master/0342-power-of-four) |
@@ -61,4 +62,12 @@
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/mdsuhail789/Leetcode/tree/master/1732-find-the-highest-altitude) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/mdsuhail789/Leetcode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/mdsuhail789/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
