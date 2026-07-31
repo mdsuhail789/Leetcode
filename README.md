@@ -44,15 +44,18 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/mdsuhail789/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1732-find-the-highest-altitude](https://github.com/mdsuhail789/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1748-sum-of-unique-elements](https://github.com/mdsuhail789/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/mdsuhail789/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 ## Hash Table
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/mdsuhail789/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [1748-sum-of-unique-elements](https://github.com/mdsuhail789/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/mdsuhail789/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 ## Counting
 |  |
 | ------- |
+| [1748-sum-of-unique-elements](https://github.com/mdsuhail789/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/mdsuhail789/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 ## Sliding Window
 |  |
