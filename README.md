@@ -39,6 +39,7 @@
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/mdsuhail789/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0771-jewels-and-stones](https://github.com/mdsuhail789/Leetcode/tree/master/0771-jewels-and-stones) |
 ## Array
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/mdsuhail789/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0771-jewels-and-stones](https://github.com/mdsuhail789/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1748-sum-of-unique-elements](https://github.com/mdsuhail789/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/mdsuhail789/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/mdsuhail789/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
