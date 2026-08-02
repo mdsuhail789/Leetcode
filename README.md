@@ -21,6 +21,7 @@
 | [0231-power-of-two](https://github.com/mdsuhail789/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/mdsuhail789/Leetcode/tree/master/0342-power-of-four) |
 | [2206-divide-array-into-equal-pairs](https://github.com/mdsuhail789/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
+| [2351-first-letter-to-appear-twice](https://github.com/mdsuhail789/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Recursion
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | [0168-excel-sheet-column-title](https://github.com/mdsuhail789/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0771-jewels-and-stones](https://github.com/mdsuhail789/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/mdsuhail789/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2351-first-letter-to-appear-twice](https://github.com/mdsuhail789/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Array
 |  |
 | ------- |
@@ -57,12 +59,14 @@
 | [1748-sum-of-unique-elements](https://github.com/mdsuhail789/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/mdsuhail789/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2206-divide-array-into-equal-pairs](https://github.com/mdsuhail789/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
+| [2351-first-letter-to-appear-twice](https://github.com/mdsuhail789/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/mdsuhail789/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Counting
 |  |
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/mdsuhail789/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/mdsuhail789/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
+| [2351-first-letter-to-appear-twice](https://github.com/mdsuhail789/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/mdsuhail789/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Sliding Window
 |  |
