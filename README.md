@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/mdsuhail789/Leetcode/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/mdsuhail789/Leetcode/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/mdsuhail789/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0202-happy-number](https://github.com/mdsuhail789/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/mdsuhail789/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/mdsuhail789/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/mdsuhail789/Leetcode/tree/master/0263-ugly-number) |
@@ -54,6 +55,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/mdsuhail789/Leetcode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/mdsuhail789/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0771-jewels-and-stones](https://github.com/mdsuhail789/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1748-sum-of-unique-elements](https://github.com/mdsuhail789/Leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -84,4 +86,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/mdsuhail789/Leetcode/tree/master/0258-add-digits) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/mdsuhail789/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
