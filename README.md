@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/mdsuhail789/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0414-third-maximum-number](https://github.com/mdsuhail789/Leetcode/tree/master/0414-third-maximum-number) |
 | [1732-find-the-highest-altitude](https://github.com/mdsuhail789/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/mdsuhail789/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/mdsuhail789/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
@@ -90,4 +91,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/mdsuhail789/Leetcode/tree/master/0202-happy-number) |
+## Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/mdsuhail789/Leetcode/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
