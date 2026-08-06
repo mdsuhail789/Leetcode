@@ -15,6 +15,7 @@
 | [0342-power-of-four](https://github.com/mdsuhail789/Leetcode/tree/master/0342-power-of-four) |
 | [0728-self-dividing-numbers](https://github.com/mdsuhail789/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1323-maximum-69-number](https://github.com/mdsuhail789/Leetcode/tree/master/1323-maximum-69-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/mdsuhail789/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2469-convert-the-temperature](https://github.com/mdsuhail789/Leetcode/tree/master/2469-convert-the-temperature) |
 ## Bit Manipulation
 |  |
@@ -51,6 +52,7 @@
 | [0414-third-maximum-number](https://github.com/mdsuhail789/Leetcode/tree/master/0414-third-maximum-number) |
 | [1732-find-the-highest-altitude](https://github.com/mdsuhail789/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/mdsuhail789/Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/mdsuhail789/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/mdsuhail789/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/mdsuhail789/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Hash Table
@@ -87,6 +89,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/mdsuhail789/Leetcode/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/mdsuhail789/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -95,4 +98,12 @@
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/mdsuhail789/Leetcode/tree/master/0414-third-maximum-number) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/mdsuhail789/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/mdsuhail789/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
